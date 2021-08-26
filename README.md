@@ -1,16 +1,28 @@
-### Olá 👋
-#### Meu nome é Maicon Galdino e sou programador backend trainee, buscando aprender e sempre melhorar.
-#### - Programador backend Trainee
-   
-<div> 
-  <a href="https://instagram.com/maicongaldinoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maicon-galdino-cunha-21357221a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:maicongacunha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<br></br>
-  
-#### - Tecnologias: 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### I'm [Maicon](https://github.com/maicongaldino) 👨‍💻
+
+<a href="https://www.linkedin.com/in/maicon-galdino-cunha-21357221a/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/maicongaldinoo/">
+  <img align="left" alt="Maicon Galdino | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/instagram.svg" />
+</a>
+
+<a href="mailto:maicongacunha@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+<br/>
+
+- Sou programador backend trainee / estudante de programação
+  
+### 🛠️ Languages and Tools:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
