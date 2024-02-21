@@ -17,7 +17,7 @@
 <br />
 <br/>
 
-- Sou programador backend trainee / estudante de programação
+- Sou programador Full Stack
   
 ### 🛠️ Languages and Tools:
 
