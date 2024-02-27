@@ -17,7 +17,7 @@
 <br />
 <br/>
 
-- Sou programador Full Stack
+- Sou Programador Junior Full Stack
   
 ### 🛠️ Languages and Tools:
 
