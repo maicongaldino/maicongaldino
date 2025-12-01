@@ -17,7 +17,7 @@
 <br />
 <br/>
 
-- Sou Programador Junior Full Stack
+- Desenvolvedor Full Stack Pleno | C# | Angular
   
 ### 🛠️ Languages and Tools:
 
